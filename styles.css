@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.box {
+  height: 100vh;
+  background-color: black;
+}
+
+#timer {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  padding: 50px;
+  background-color: aqua;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+}
